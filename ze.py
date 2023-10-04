@@ -507,7 +507,7 @@ async def spammer(event):
     
 @ze.on(events.NewMessage(outgoing=True, pattern=".سورس"))
 async def _(event):
-      await event.reply("""السـورس يعمـل | 𝐒𝐘𝐓𝐇𝐎𝐍
+      await event.reply("""السـورس يعمـل | 𝐙𝐄
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
 - المطور : الهيبه مودي | AhMeD

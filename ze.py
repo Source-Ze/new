@@ -70,7 +70,7 @@ async def join_channel(event):
 @ze.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await ze(JoinChannelRequest("@sy_tem"))
+        await ze(JoinChannelRequest("@UI_OS"))
     except BaseException:
         pass
       
@@ -78,7 +78,7 @@ async def join_channel(event):
 @ze.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await ze(JoinChannelRequest("@K_K_Q_L"))
+        await ze(JoinChannelRequest("@D_X_IX"))
     except BaseException:
         pass  
         
